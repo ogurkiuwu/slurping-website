@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FCBAFF; /* fioletowo-różowe tło */
+    font-family: Arial, sans-serif;
+}
+
+/* Tekst na środku */
+.center-text {
+    font-size: 2em;
+    font-weight: bold;
+    color: #000000; /* czarny tekst */
+    text-align: center;
+}
